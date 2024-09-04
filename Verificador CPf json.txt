@@ -1,0 +1,8 @@
+https://platform.20bet.com/api/v2/tax-id-validation
+
+{"taxId":"26631350115","country":"BR"}
+
+POST
+
+-----------
+
